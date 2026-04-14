@@ -44,7 +44,7 @@ I enjoy turning ideas into systems that actually solve problems, not just look g
 
 ## 📬 How to Reach Me
 
-- [![LinkedIn](https://img.icons8.com/ios-filled/50/0077B5/linkedin.png)](https://linkedin.com/in/antonio-vass-a11976378)
+[![LinkedIn](https://img.icons8.com/ios-filled/50/0077B5/linkedin.png)](https://linkedin.com/in/antonio-vass-a11976378)
 
 ---
 
